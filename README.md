@@ -65,9 +65,9 @@
 #### Демонстрация работы модели до аугментаций
 <div align="center">
   <a href="https://github.com/user-attachments/assets/233052f9-5233-4b24-9537-02b024139eed">
-    <img src="media/test_before_aug.png" alt="Demo до аугментаций" width="640">
+    <img src="media/test_before_aug.png" alt="Demo до аугментаций" width="240">
   </a>
-  <p><em>Видео: 16 секунд, ~6&nbsp;МБ</em></p>
+  <p><em>Клик по фото перенесет во встроенный в github плеер для просмотра видео</em></p>
 </div>
 
 
