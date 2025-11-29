@@ -65,7 +65,7 @@
 #### Демонстрация работы модели до аугментаций
 <p align="center">
   <a href="media/test_before_aug.mp4">
-    <img src="media/test_before_aug.png" alt="Demo: детекция до аугментаций" width="640">
+    <img src="media/test_before_aug.png" alt="Demo: детекция до аугментаций" width="240">
   </a>
 </p>
 
