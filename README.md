@@ -64,8 +64,8 @@
 
 #### Демонстрация работы модели до аугментаций
 <p align="center">
-  <a href="https://github.com/<user>/<repo>/raw/main/media/test_before_aug.mp4">
-    <img src="media/test_before_aug_frame.png" alt="Demo: детекция до аугментаций" width="240">
+  <a href="https://github.com/mal0znaal/pen-pencil_detection/raw/main/media/test_before_aug.mp4">
+    <img src="media/test_before_aug.png" alt="Demo: детекция до аугментаций" width="240">
   </a>
 </p>
 
