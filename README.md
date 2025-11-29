@@ -72,9 +72,7 @@
 
 
 <div align="center">
-
-https://github.com/user-attachments/assets/233052f9-5233-4b24-9537-02b024139eed
-
+https://github.com/user-attachments/assets/c8f0711e-bad5-4e1c-9820-33aae0e7b594
 </div>
 
 <p align="center">
