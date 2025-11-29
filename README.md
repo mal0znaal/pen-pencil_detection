@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/d4ab74ed-2bb3-4b00-9717-99f59a80c7bb
 </div>
 
 <p align="center">
-  <em>Видео: 16 секунд, ~6&nbsp;МБ</em>
+  <em>Видео: ДО аугментации, ~6&nbsp;МБ</em>
 </p>
 
 #### Гипотеза 1: конкуренция классов по уверенности (conf / NMS)
@@ -141,7 +141,7 @@ https://github.com/user-attachments/assets/b3097126-eabd-4963-95e1-493ddac986a5
 </div>
 
 <p align="center">
-  <em>Видео: 16 секунд, ~6&nbsp;МБ</em>
+  <em>Видео: ПОСЛЕ аугментации, ~6&nbsp;МБ</em>
 </p>
 
 
@@ -213,5 +213,17 @@ https://github.com/user-attachments/assets/b3097126-eabd-4963-95e1-493ddac986a5
 В итоге аккуратный long fine-tune с маленьким lr действительно улучшил и качество классификации, и точность локализации.
 ---
 
-## 4. Запуск модели в real-time
+## 4. Финальный инференс
 
+
+<div align="center">  
+
+
+https://github.com/user-attachments/assets/a3b4149b-f664-401f-bc2a-50482a036822
+
+
+</div>
+
+<p align="center">
+  <em>Видео: ФИНАЛЬНАЯ модель, ~6&nbsp;МБ</em>
+</p>
