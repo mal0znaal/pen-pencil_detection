@@ -71,4 +71,14 @@
 </div>
 
 
+<div align="center">
+
+https://github.com/user-attachments/assets/233052f9-5233-4b24-9537-02b024139eed
+
+</div>
+
+<p align="center">
+  <em>Видео: 16 секунд, ~6&nbsp;МБ</em>
+</p>
+
 
